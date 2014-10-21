@@ -10,7 +10,7 @@ topics in nuclear astrophysics including experiment and computational modeling. 
 of my hobbies include coding, reverse engineering, and most kinds of hackery.
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
+Find me on [Google+][google] / [Github][github] or just say `Hello` at 
 [sullivan@nscl.msu.edu](sullivan@nscl.msu.edu).
 
 
