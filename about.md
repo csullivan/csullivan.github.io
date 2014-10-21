@@ -8,6 +8,7 @@ Hi, I am Chris Sullivan, a graduate assistant at Michigan State University worki
 the National Superconducting Cyclotron Laboratory (NSCL). I am currently working on 
 topics in nuclear astrophysics including experiment and computational modeling. Some 
 of my hobbies include coding, reverse engineering, and most kinds of hackery.
+
 ### Contact me
 
 Find me on [Google+][google] / [Github][github] or just say `Hello` at 
