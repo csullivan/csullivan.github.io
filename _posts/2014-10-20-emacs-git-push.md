@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Creating a keybind in Emacs for automagically pushing to GitHub."
-date:   2014-10-20 23:40:45
+date:   2014-10-21 00:40:45
 description: A website from the terminal (part 1).
 categories:
 - blog
