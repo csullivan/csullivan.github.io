@@ -9,5 +9,3 @@ categories:
 
 ## Oxbash
 Oxbash is a nuclear shell model code written by B. Alex Brown (NSCL).
-
-Hi mike!
