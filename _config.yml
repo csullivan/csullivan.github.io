@@ -4,33 +4,33 @@
 baseurl: /harmony
 
 # Site live URL
-url: http://gayanvirajith.github.io/harmony
+url: http://csullivan.github.io
 
 # Localhost 
-#url: http://192.168.0.102:4000
+#url: http://10.0.1.1:4000
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harmony
+  name: Test
   # Little description about your site
   description: Harmony is a free responsive jekyll theme.
   meta_description: Harmony is free responsive jekyll theme. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Gayan Virajith
-    email: gayanvirajith@gmail.com
-    url: http://gayanvirajith.github.io
+    name: Chris Sullivan
+    email: sulli448@msu.edu
+    url: http://csullivan.github.io
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
+    github: csullivan
+    twitter: 
+    facebook: 
+    gplus: 
+    dribble: 
     pinterest: 
   # Toggle disclaimer in footer
   show_disclaimer: true
