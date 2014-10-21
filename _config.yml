@@ -13,7 +13,7 @@ url: http://csullivan.github.io
 harmony:
   name: Chris Sullivan's repository for notes
   # Little description about your site
-  description: A simple place, where I can post notes on all kinds of things.
+  description: A simple place; where I will post notes on all kinds of things.
   meta_description: Chris Sullivan's online log of codes, physics, and other goodies.
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
