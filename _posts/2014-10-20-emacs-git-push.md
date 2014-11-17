@@ -19,5 +19,3 @@ It's actually pretty simple to get emacs to make a new commit with the current b
 {% endhighlight %}
 
 I set up ssh-keys with github to make it even easier, but you don't have to. Emacs properly handles sending credentials via the action buffer.
-
-Hi Chris
