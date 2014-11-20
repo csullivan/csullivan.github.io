@@ -9,3 +9,13 @@ categories:
 
 ## Oxbash
 Oxbash is a nuclear shell model code written by B. Alex Brown (NSCL).
+
+Booting NuShellX on a linus distro.
+{% highlight bash %}
+$ cd aaa/
+$ source bash_profile_nushell
+$ dens / shell / ... etc
+{% endhighlight %}
+
+
+
