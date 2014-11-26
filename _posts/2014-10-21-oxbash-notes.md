@@ -34,6 +34,8 @@ st           #end calculation
 
 A note on DWHI:
 Sometimes the Optical Model that is used does is parameterized in the $r_c A^{\frac{1}{3}}$ manner instead of $r_c (A_t^{\frac{1}{3}} + A_p^{\frac{1}{3}})$ in which case an effective coulomb radius $r_c$ must be defined to take this into account in the DWHI input file.
+
+The Q-value used in DWHI is defined as $Q = Q_p - Q_t$ with $Q_i = Q_i^{gs} - E_i^x$ where i is p or t, the parent or target respectively.
 {% highlight bash %}
 {% endhighlight %}
 {% highlight bash %}
